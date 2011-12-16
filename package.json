@@ -1,0 +1,17 @@
+{
+  "author": "KOBA789 <kobahide789@gmail.com> (http://koba789.com/)",
+  "name": "ecstream",
+  "description": "Extended Connectable Stream",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/KOBA789/ecstream.git"
+  },
+  "engines": {
+    "node": ">= 0.6.5"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "vows": ">= 0.6"
+  }
+}
